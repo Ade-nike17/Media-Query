@@ -2,7 +2,7 @@
    body{
         padding: 0 20px;
         height:450px;
-        
+        background: url(/bg-intro-mobile.png);
     }
     main {
         flex-direction: column;
