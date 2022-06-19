@@ -16,9 +16,19 @@
         align-items: center;
     }
     input[type=text], input[type=password] {
-       max-width:80%;
+        max-width:60%;
         padding: 15px;
         margin: 0 15px;
+    }
+    .container-2 {
+        max-width: 55%;
+        padding: 15px;
+        margin: 0 15px;
+    }
+    input[type=submit] {
+        width:40%;
+        padding:0;
+        text-align: left;
     }
     
 }
@@ -92,7 +102,7 @@ input[type=text], input[type=password]{
     border-radius: 5px;
 }
 input[type=submit] {
-    align-items: center;width:80%;
+    align-items: center;
     padding: 15px;
     margin: 3px 15px;
     background-color:#37cf8d;
